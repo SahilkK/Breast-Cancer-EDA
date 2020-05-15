@@ -1,1 +1,1 @@
-# BreastCancerPrediction
+# BreastCancerDetection
